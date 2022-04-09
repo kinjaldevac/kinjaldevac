@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kinjsl
+- 👋 Hi, I’m Kinjal
 - 👀 I’m interested in web development
 - 🌱 I’m currently working on React, NodeJS
 
